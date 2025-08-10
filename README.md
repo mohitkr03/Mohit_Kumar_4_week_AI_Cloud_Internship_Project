@@ -6,12 +6,12 @@ This repository documents the capstone project completed during the IBM SkillsBu
 The internship's primary goal is to provide hands-on experience in emerging technologies, enhancing employability and confidence by solving real-world challenges using the IBM SkillsBuild and IBM Cloud platforms.
 
 👨‍💻 Intern Details
-Name: MOHIT KUMAR
-Institute: CMR ENGINEERING COLLEGE
-Duration: 4 Weeks (15th July 2025 to 7th August 2025)
+    Name: MOHIT KUMAR
+    Institute: CMR ENGINEERING COLLEGE
+    Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 
 📖 About the Internship
-This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
+    This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
 
 Week 1: Internship Orientation, IBM Cloud Registration, Artificial Intelligence.
 Week 2: Data Analytics concepts, Hands-On Labs, and Cloud EDA.
